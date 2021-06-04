@@ -1,0 +1,20 @@
+{
+  "name": "bpbexr--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "antd": "4.16.1",
+    "@ant-design/icons": "4.6.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
